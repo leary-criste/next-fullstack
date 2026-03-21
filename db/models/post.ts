@@ -65,4 +65,4 @@ export const PostFactory = (sequelize: Sequelize, DataTypes: any) => {
   );
 
   return Post;
-};
+};
