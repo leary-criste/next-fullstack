@@ -121,4 +121,4 @@ const options: InitOptions = {
 };
 
 export default (req: NextApiRequest, res: NextApiResponse) =>
-  NextAuth(req, res, options);
+  NextAuth(req, res, options);
