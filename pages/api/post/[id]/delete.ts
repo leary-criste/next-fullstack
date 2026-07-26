@@ -15,4 +15,4 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
     res.status(200).end();
   });
-};
+};
