@@ -74,4 +74,4 @@ export const UserFactory = (sequelize: Sequelize, DataTypes: any) => {
   );
 
   return User;
-};
+};
