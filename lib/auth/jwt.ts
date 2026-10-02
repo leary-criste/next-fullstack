@@ -25,4 +25,4 @@ export const requestWrapper = async (
     console.error(e);
     res.status(500).json({ error: JSON.stringify(e) });
   }
-};
+};
